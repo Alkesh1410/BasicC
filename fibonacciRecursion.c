@@ -1,7 +1,5 @@
 #include<stdio.h>
-
 int computeFibonacci(int);
-
 int main()
 {
 	printf("Please enter the length of fibonacci\t:");
