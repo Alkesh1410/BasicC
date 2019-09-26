@@ -25,12 +25,6 @@ int main()
 		decimalValue += value * pow(16, length);
 		length--;
 	}
-//	for(int i = 0; newNumber; i++,newNumber=newNumber/10)
-//	{
-//		int rem = newNumber % 10;
-//		decimalValue = (decimalValue + rem*pow(16,i));
-//	}
-
 	printf("The converted value for entered hex number is %d\n",decimalValue);
 
 	return 0;
