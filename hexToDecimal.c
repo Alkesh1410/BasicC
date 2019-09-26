@@ -1,3 +1,5 @@
+//	Compile the code using -lm as an argument while compiling i.e. "cc -hexToDecimal.c -lm" (For linux terminal).
+
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
