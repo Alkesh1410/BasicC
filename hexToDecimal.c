@@ -11,7 +11,6 @@ int main()
 	scanf("%s",number);
 	
 	int length = strlen(number) - 1;
-	int newNumber = atoi(number);
 	int decimalValue = 0;
 
 	for(int i=0; number[i]; i++)
